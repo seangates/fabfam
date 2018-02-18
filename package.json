@@ -1,0 +1,14 @@
+{
+  "name": "family-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "huncwot": "latest",
+    "lasso": "latest",
+    "lasso-marko": "latest",
+    "marko": "latest",
+    "marko-path-router": "latest",
+    "mobx": "latest",
+    "knex": "latest",
+    "sqlite3": "latest"
+  }
+}
